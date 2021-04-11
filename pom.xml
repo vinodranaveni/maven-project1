@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>devops64</finalName>
+    <finalName>mvnprojectlvp</finalName>
   </build>
 </project>
