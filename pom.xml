@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>mvnprojectlvp</finalName>
+	  <finalName>vindevops</finalName>
   </build>
 </project>
